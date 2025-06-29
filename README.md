@@ -25,7 +25,6 @@ Merkel Cell Carcinoma (MCC) is a rare but aggressive skin cancer. This project f
 - Python
 - Pandas, NumPy
 - Scikit-learn
-- TensorFlow (if used)
 - SHAP
 - Matplotlib, Seaborn
 
@@ -33,11 +32,11 @@ Merkel Cell Carcinoma (MCC) is a rare but aggressive skin cancer. This project f
 
 ## 📁 Project Structure
 
-data/
-dataset.csv # Dataset file (e.g., gene expression data)
-model.py # Main Python script for preprocessing, training, and SHAP analysis
-requirements.txt # Python dependencies
-README.md # Project overview and instructions
+- data/
+- dataset.csv # Dataset file (e.g., gene expression data)
+- model.py # Main Python script for preprocessing, training, and SHAP analysis
+- requirements.txt # Python dependencies
+- README.md # Project overview and instructions
 
 ## ⚙️ How to Run
 
