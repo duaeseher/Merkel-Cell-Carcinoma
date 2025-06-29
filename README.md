@@ -53,6 +53,13 @@ pip install -r requirements.txt
 # Run the main Python script
 python model.py
 
+---
+
+## 📥 Dataset
+
+The gene expression dataset (GSE118056) can be downloaded directly from [GEO database](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE118056).
+
+---
 
 ## 👤 Author
 
