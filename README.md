@@ -38,6 +38,27 @@ Merkel Cell Carcinoma (MCC) is a rare but aggressive skin cancer. This project f
 - requirements.txt # Python dependencies
 - README.md # Project overview and instructions
 
+  ---
+
+  ## 📥 Dataset
+
+The gene expression dataset (GSE118056) can be downloaded directly from [GEO database](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE118056).
+
+---
+
+## 👤 Author
+
+**Dua-e-Seher**  
+Focus: Explainable AI & healthcare machine learning  
+linkedin profile: www.linkedin.com/in/dua-e-seher-computer-science
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+
 ## ⚙️ How to Run
 
 ```bash
@@ -55,20 +76,4 @@ python model.py
 
 ---
 
-## 📥 Dataset
 
-The gene expression dataset (GSE118056) can be downloaded directly from [GEO database](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE118056).
-
----
-
-## 👤 Author
-
-**Dua-e-Seher**  
-Focus: Explainable AI & healthcare machine learning  
-linkedin profile: www.linkedin.com/in/dua-e-seher-computer-science
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
